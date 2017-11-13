@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428087737 source:g:\contest\codechef\april cen b\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+

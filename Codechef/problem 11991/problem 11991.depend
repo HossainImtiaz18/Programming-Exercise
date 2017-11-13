@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418131336 source:g:\contest\codechef\problem 11991\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+
