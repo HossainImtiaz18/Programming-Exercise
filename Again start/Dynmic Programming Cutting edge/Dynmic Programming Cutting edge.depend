@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1439673692 source:c:\users\imtiaz\desktop\again start\dynmic programming cutting edge\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<algorithm>
+

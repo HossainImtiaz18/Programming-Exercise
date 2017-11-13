@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1439623193 source:c:\users\imtiaz\desktop\again start\dfs\main.cpp
+	<iostream>
+	<stack>
+	<cstdlib>
+	<algorithm>
+	<cstdio>
+	<memory.h>
+

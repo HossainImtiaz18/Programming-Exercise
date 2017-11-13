@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1418557174 source:g:\contest\algorithms\binary search\main.cpp
+	<iostream>
+	<algorithm>
+

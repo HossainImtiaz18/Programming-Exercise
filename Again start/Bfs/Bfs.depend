@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1439409661 source:c:\users\imtiaz\desktop\again start\bfs\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	<cstdlib>
+	<algorithm>
+	<memory.h>
+

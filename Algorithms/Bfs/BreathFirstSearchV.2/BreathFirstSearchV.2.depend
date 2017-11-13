@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1427677321 source:g:\contest\algorithms\bfs\breathfirstsearchv.2\main.cpp
+	<iostream>
+	<stdio.h>
+	<queue>
+	<algorithm>
+	<vector>
+
