@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457657692 source:f:\contest\light oj\problem1028\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+

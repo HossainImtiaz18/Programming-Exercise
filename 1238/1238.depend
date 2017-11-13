@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1466972299 source:f:\contest\light oj\1238\main.cpp
+	<iostream>
+	<memory.h>
+	<queue>
+	<cmath>
+	<algorithm>
+

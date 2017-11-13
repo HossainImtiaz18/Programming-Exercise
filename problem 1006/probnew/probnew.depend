@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447684585 source:g:\contest\light oj\problem 1006\probnew\main.cpp
+	<iostream>
+	<cstdio>
+	<memory.h>
+

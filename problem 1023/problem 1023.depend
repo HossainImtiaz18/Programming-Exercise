@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1416496402 source:g:\contest\light oj\problem 1023\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+

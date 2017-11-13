@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462190564 source:f:\contest\light oj\probdiv\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+
